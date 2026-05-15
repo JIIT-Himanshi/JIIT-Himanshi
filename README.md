@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=600&size=30&pause=1000&color=FF69B4&center=true&width=650&lines=Hi+there!+I'm+Himanshi;BCA+Student+at+JIIT+Noida;Full+Stack+Web+Developer;React+%26+Next.js+Enthusiast;Building+Modern+Web+Experiences">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=600&size=30&pause=1000&color=4A90E2&center=true&width=650&lines=Hi+there!+I'm+Himanshi;BCA+Student+at+JIIT+Noida;Full+Stack+Web+Developer;React+%26+Next.js+Enthusiast;Building+Modern+Web+Experiences">
 </h1>
 
 <h3 align="center">BCA Student | Full Stack Developer | React & Next.js Enthusiast</h3>
@@ -34,7 +34,7 @@
 ### GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JIIT-Himanshi&theme=transparent&hide_border=false&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=808080&background=0D1117&border=FF69B4&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" width="55%" />
+  <img src="https://streak-stats.demolab.com/?user=JIIT-Himanshi&theme=transparent&hide_border=false&stroke=FF69B4&ring=FF69B4&fire=4A90E2&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=808080&background=0D1117&border=FF69B4&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" width="55%" />
 </p>
 
 ---
@@ -68,5 +68,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=100&section=footer" />
 </p>

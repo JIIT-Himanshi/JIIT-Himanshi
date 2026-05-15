@@ -34,7 +34,7 @@
 ### GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JIIT-Himanshi&theme=transparent&hide_border=false&stroke=FF69B4&ring=FF69B4&fire=4A90E2&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=808080&background=0D1117&border=FF69B4&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" width="55%" />
+  <img src="https://streak-stats.demolab.com/?user=JIIT-Himanshi&theme=transparent&hide_border=false&stroke=4A90E2&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2&sideLabels=4A90E2&dates=808080&background=0D1117&border=4A90E2&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" width="55%" />
 </p>
 
 ---

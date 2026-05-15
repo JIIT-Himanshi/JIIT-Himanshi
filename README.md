@@ -1,23 +1,23 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=600&size=30&pause=1000&color=FF69B4&center=true&width=500&lines=Hi+there!+I'm+Himanshi;BCA+Student;Aspiring+Full+Stack+Developer;Creative+Designer+%26+Artist">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=600&size=30&pause=1000&color=FF69B4&center=true&width=650&lines=Hi+there!+I'm+Himanshi;BCA+Student+at+JIIT+Noida;Full+Stack+Web+Developer;React+%26+Next.js+Enthusiast;Building+Modern+Web+Experiences">
 </h1>
 
-<h3 align="center">BCA Student | Future Full Stack Developer | Creative Designer</h3>
+<h3 align="center">BCA Student | Full Stack Developer | React & Next.js Enthusiast</h3>
 
 <p align="center">
-  Passionate about web development, creative designing, and problem solving. 
-  Currently learning full stack development with a focus on frontend technologies, databases, and backend development. 
-  I also enjoy digital art, Madhubani painting, and creating creative UI designs.
+  Passionate about building modern, responsive, and user-friendly web applications.
+  Currently focused on full stack development, scalable frontend architecture,
+  smooth UI animations, and strengthening problem-solving skills through DSA and real-world projects.
 </p>
 
 ---
 
 ### Professional Overview
 
-* **Current Focus:** Learning Full Stack Web Development and strengthening DSA concepts.
-* **Technical Expertise:** Familiar with HTML, CSS, JavaScript, Python, MySQL, PHP, and C++.
-* **Education:** Pursuing BCA from J.P. Institute of Information Technology (JIIT), Noida.
-* **Creative Skills:** Skilled in Adobe Illustrator, photo editing, and Madhubani art.
+* **Current Focus:** Building full stack web applications and improving problem-solving skills through DSA.
+* **Technical Expertise:** HTML, Tailwind CSS, JavaScript, React.js, Next.js, GSAP, Express.js, MySQL, Python, Java, and C++.
+* **Education:** Pursuing BCA from Jaypee Institute of Information Technology (JIIT), Noida.
+* **Development Interests:** Frontend development, UI/UX design, web animations, and scalable web applications.
 
 ---
 
@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,tailwindcss,js,python,reactjs,mysql,php,git,github,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,express,mysql,python,java,cpp,git,github,vscode,figma" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 ### GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=false&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=808080&background=0D1117&border=FF69B4&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" width="55%" />
+  <img src="https://streak-stats.demolab.com/?user=JIIT-Himanshi&theme=transparent&hide_border=false&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=808080&background=0D1117&border=FF69B4&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" width="55%" />
 </p>
 
 ---

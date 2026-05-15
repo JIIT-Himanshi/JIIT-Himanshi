@@ -57,7 +57,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://github.com/JIIT-Himanshi target="_blank">
+  <a href="https://github.com/JIIT-Himanshi" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
